@@ -17,11 +17,11 @@ I have knowledge in backend development on Java.
 
 ## 🛠 Technical Stack
 *   Java
-*   MySQL
-*   Spring Framework
-*   GitHub/Git
+*   IntelliJ IDEA
+*   GitHub
+*   Git
 
-### My opensource projects
+### My projects
 
 *   Soon...
 
