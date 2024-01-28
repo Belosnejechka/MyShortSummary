@@ -33,15 +33,6 @@ I have knowledge in backend development on Java.
       <image src="https://achievement-images.teamtreehouse.com/badges_csharp_objects_stage01.png" alt="OOP Logo" height=85>
 <div>
 
-
-## Key skills
-
-*   Soon...
-
-## My projects
-
-*   Soon...
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Belosnejechka/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=Belosnejechka&color=DE002D">
