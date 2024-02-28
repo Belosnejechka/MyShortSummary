@@ -31,6 +31,7 @@ I have knowledge in backend development on Java.
       <image src="https://u.netology.ru/backend/uploads/page_assets/images/file/46280/tools_SQL_color.png" alt="SQL Logo" height=85>
       <image src="https://u.netology.ru/backend/uploads/page_assets/images/file/46302/tools_EnglishDom_color.png" alt="EnglishDom Logo" height=85>
       <image src="https://achievement-images.teamtreehouse.com/badges_csharp_objects_stage01.png" alt="OOP Logo" height=85>
+      <image src="https://vectorified.com/images/postgresql-icon-11.jpg" alt="Postgre SQL Logo" height=85>
 <div>
 
 <div align="center" style="margin: 40px 0">
